@@ -1,5 +1,6 @@
 # TDS-ECUALIZADOR-3-BANDAS
-Ecualizador de 3 bandas (graves, medios y agudos) con filtros biquad en Python, con ganancia ajustable por banda y probado con audio real. Proyecto final de Tratamiento Digital de Señales (TDS115), Universidad de El Salvador.
+Proyecto final de Tratamiento Digital de Señales (TDS115), Universidad de El Salvador, Ciclo II 2026.
+
 ## Integrantes
 - Brenda Alexandra Menéndez Samayoa, MS22021
 - Victor Mauricio Larín León, LL20020
